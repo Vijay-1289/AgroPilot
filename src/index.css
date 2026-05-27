@@ -1,0 +1,129 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-organic-cream text-slate-800 font-sans;
+    background-image: 
+      radial-gradient(at 0% 0%, rgba(82, 183, 136, 0.05) 0px, transparent 50%),
+      radial-gradient(at 100% 0%, rgba(124, 92, 58, 0.03) 0px, transparent 50%),
+      radial-gradient(at 50% 100%, rgba(45, 106, 79, 0.04) 0px, transparent 50%);
+  }
+
+  /* Custom Premium Scrollbar */
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #F8F4EC;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #C4BCA8;
+    border-radius: 4px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #7C5C3A;
+  }
+}
+
+/* Micro-animations and Premium Classes */
+.glass-card {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  box-shadow: 0 8px 32px 0 rgba(45, 106, 79, 0.04);
+}
+
+.organic-gradient-bg {
+  background: linear-gradient(135deg, #2D6A4F 0%, #1B4332 100%);
+}
+
+.organic-gradient-text {
+  background: linear-gradient(135deg, #2D6A4F 0%, #7C5C3A 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.hover-glow {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.hover-glow:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 24px rgba(82, 183, 136, 0.15);
+}
+
+.btn-organic-primary {
+  @apply bg-organic-green hover:bg-organic-darkGreen text-white font-semibold py-3 px-6 rounded-xl shadow-lg transition-all duration-300 transform active:scale-95 flex items-center justify-center gap-2;
+  box-shadow: 0 4px 14px rgba(45, 106, 79, 0.25);
+}
+
+.btn-organic-secondary {
+  @apply bg-white hover:bg-organic-cream text-organic-green border border-organic-green/20 font-semibold py-3 px-6 rounded-xl transition-all duration-300 transform active:scale-95 flex items-center justify-center gap-2;
+}
+
+.organic-input {
+  @apply bg-white/80 border border-slate-200 rounded-xl px-4 py-3 outline-none focus:ring-2 focus:ring-organic-green/45 focus:border-organic-green transition-all duration-200 text-slate-800;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.4s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+@keyframes progressAnim {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(250%); }
+}
+
+.animate-progress {
+  animation: progressAnim 1.5s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+}
+
+@keyframes slideIn {
+  from { transform: translateX(-100%); }
+  to { transform: translateX(0); }
+}
+
+.animate-slide-in {
+  animation: slideIn 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Leaflet Draw Custom Resets */
+.leaflet-draw-draw-polygon {
+  background-color: #2D6A4F !important;
+}
+
+.leaflet-container {
+  font-family: inherit;
+  border-radius: 1rem;
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(8px);
+}
+
+.leaflet-popup-tip {
+  background: rgba(255, 255, 255, 0.95);
+}
+
+/* Custom Gauges Styling overrides */
+.gauge-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

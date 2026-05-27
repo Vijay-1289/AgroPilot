@@ -1,0 +1,106 @@
+{
+  "C:\\Users\\Thilak chodagiri\\Desktop\\ArgoPilot\\postcss.config.js": {
+    "mtime": 1779600045.0626564,
+    "hash": "ef3ba2a81ba19f8ea5ddf625521e96f0"
+  },
+  "C:\\Users\\Thilak chodagiri\\Desktop\\ArgoPilot\\tailwind.config.js": {
+    "mtime": 1779600042.5760975,
+    "hash": "311c2bc9b7d8a88a0a73f31161faaeab"
+  },
+  "C:\\Users\\Thilak chodagiri\\Desktop\\ArgoPilot\\vite.config.js": {
+    "mtime": 1779600039.31926,
+    "hash": "b10d3f74d149fc660662d724ade27b88"
+  },
+  "C:\\Users\\Thilak chodagiri\\Desktop\\ArgoPilot\\server\\index.js": {
+    "mtime": 1779600089.2196684,
+    "hash": "91b10bb715b0901f52efea826d236ec5"
+  },
+  "C:\\Users\\Thilak chodagiri\\Desktop\\ArgoPilot\\server\\middleware\\organicGuard.js": {
+    "mtime": 1779600058.5465033,
+    "hash": "c1e0dc9ac087c3ba3b4f4c1fcaa7f6d5"
+  },
+  "C:\\Users\\Thilak chodagiri\\Desktop\\ArgoPilot\\server\\routes\\api.js": {
+    "mtime": 1779721871.6305342,
+    "hash": "21a0378582d3dc449581953bcc69292a"
+  },
+  "C:\\Users\\Thilak chodagiri\\Desktop\\ArgoPilot\\server\\services\\geminiService.js": {
+    "mtime": 1779722477.1604908,
+    "hash": "82761e33f486081ed0fd16f79f7a0c8f"
+  },
+  "C:\\Users\\Thilak chodagiri\\Desktop\\ArgoPilot\\src\\App.jsx": {
+    "mtime": 1779600211.332873,
+    "hash": "d68fd8c8047de1b60072dcf3a6b26440"
+  },
+  "C:\\Users\\Thilak chodagiri\\Desktop\\ArgoPilot\\src\\main.jsx": {
+    "mtime": 1779600214.0573049,
+    "hash": "253d4db42a0b217629b29497cec5becb"
+  },
+  "C:\\Users\\Thilak chodagiri\\Desktop\\ArgoPilot\\src\\components\\common\\AICard.jsx": {
+    "mtime": 1779600129.1362445,
+    "hash": "8627bd4f7b2cf2512563616218e9ed41"
+  },
+  "C:\\Users\\Thilak chodagiri\\Desktop\\ArgoPilot\\src\\components\\common\\Layout.jsx": {
+    "mtime": 1779722218.1269093,
+    "hash": "60cf1c2ea776904e44ffb2635bd206e8"
+  },
+  "C:\\Users\\Thilak chodagiri\\Desktop\\ArgoPilot\\src\\components\\common\\StageHeader.jsx": {
+    "mtime": 1779600125.913101,
+    "hash": "790e7054c105a74da2235a46ca48e226"
+  },
+  "C:\\Users\\Thilak chodagiri\\Desktop\\ArgoPilot\\src\\components\\common\\SyncButton.jsx": {
+    "mtime": 1779600121.8160284,
+    "hash": "e687dc90e17e3a7bdfc428a2d0aa2355"
+  },
+  "C:\\Users\\Thilak chodagiri\\Desktop\\ArgoPilot\\src\\pages\\Stage10Page.jsx": {
+    "mtime": 1779600207.654294,
+    "hash": "77e7e474336000be064facd08ab58ba4"
+  },
+  "C:\\Users\\Thilak chodagiri\\Desktop\\ArgoPilot\\src\\pages\\Stage1Page.jsx": {
+    "mtime": 1779721029.7866268,
+    "hash": "b549c60a7ef273caf7ad8eaaeb817232"
+  },
+  "C:\\Users\\Thilak chodagiri\\Desktop\\ArgoPilot\\src\\pages\\Stage2Page.jsx": {
+    "mtime": 1779602153.960004,
+    "hash": "9207c3eedbb766bc6912d8c8565e2957"
+  },
+  "C:\\Users\\Thilak chodagiri\\Desktop\\ArgoPilot\\src\\pages\\Stage3Page.jsx": {
+    "mtime": 1779722274.9225478,
+    "hash": "54b417a52a005df496d730c20f0e514a"
+  },
+  "C:\\Users\\Thilak chodagiri\\Desktop\\ArgoPilot\\src\\pages\\Stage4Page.jsx": {
+    "mtime": 1779722289.8581219,
+    "hash": "b635d3c6516ec716b94c7057c81a33e7"
+  },
+  "C:\\Users\\Thilak chodagiri\\Desktop\\ArgoPilot\\src\\pages\\Stage5Page.jsx": {
+    "mtime": 1779600168.1665173,
+    "hash": "8928480a4d4a7e1630f56610037045b1"
+  },
+  "C:\\Users\\Thilak chodagiri\\Desktop\\ArgoPilot\\src\\pages\\Stage6Page.jsx": {
+    "mtime": 1779600176.192707,
+    "hash": "ebf479608e84b4a679cdc381ecbd641b"
+  },
+  "C:\\Users\\Thilak chodagiri\\Desktop\\ArgoPilot\\src\\pages\\Stage7Page.jsx": {
+    "mtime": 1779600183.6713912,
+    "hash": "8aa4bc33b2a1abf88f45b6fcd4b36c5b"
+  },
+  "C:\\Users\\Thilak chodagiri\\Desktop\\ArgoPilot\\src\\pages\\Stage8Page.jsx": {
+    "mtime": 1779600191.038608,
+    "hash": "aaa7042d287054c57e3b3bd59f7fd86f"
+  },
+  "C:\\Users\\Thilak chodagiri\\Desktop\\ArgoPilot\\src\\pages\\Stage9Page.jsx": {
+    "mtime": 1779600198.5903268,
+    "hash": "219839c13e88bb9b1b5bf2d32fa82808"
+  },
+  "C:\\Users\\Thilak chodagiri\\Desktop\\ArgoPilot\\src\\store\\stageStore.js": {
+    "mtime": 1779600108.705001,
+    "hash": "d24f033472a7601cb73124cf644b23a2"
+  },
+  "C:\\Users\\Thilak chodagiri\\Desktop\\ArgoPilot\\index.html": {
+    "mtime": 1779600096.6012034,
+    "hash": "426f4e4e617207bf43c558494a78bfda"
+  },
+  "C:\\Users\\Thilak chodagiri\\Desktop\\ArgoPilot\\public\\logo.svg": {
+    "mtime": 1779600099.4958525,
+    "hash": "480e77b1c791b0a0da6499d61be571d9"
+  }
+}

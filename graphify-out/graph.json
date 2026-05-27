@@ -1,0 +1,1348 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "postcss.config.js",
+      "file_type": "code",
+      "source_file": "postcss.config.js",
+      "source_location": "L1",
+      "id": "postcss_config_js",
+      "community": 10,
+      "norm_label": "postcss.config.js"
+    },
+    {
+      "label": "tailwind.config.js",
+      "file_type": "code",
+      "source_file": "tailwind.config.js",
+      "source_location": "L1",
+      "id": "tailwind_config_js",
+      "community": 11,
+      "norm_label": "tailwind.config.js"
+    },
+    {
+      "label": "vite.config.js",
+      "file_type": "code",
+      "source_file": "vite.config.js",
+      "source_location": "L1",
+      "id": "vite_config_js",
+      "community": 12,
+      "norm_label": "vite.config.js"
+    },
+    {
+      "label": "index.js",
+      "file_type": "code",
+      "source_file": "server/index.js",
+      "source_location": "L1",
+      "id": "server_index_js",
+      "community": 0,
+      "norm_label": "index.js"
+    },
+    {
+      "label": "organicGuard.js",
+      "file_type": "code",
+      "source_file": "server/middleware/organicGuard.js",
+      "source_location": "L1",
+      "id": "server_middleware_organicguard_js",
+      "community": 0,
+      "norm_label": "organicguard.js"
+    },
+    {
+      "label": "checkOrganicViolations()",
+      "file_type": "code",
+      "source_file": "server/middleware/organicGuard.js",
+      "source_location": "L50",
+      "id": "middleware_organicguard_checkorganicviolations",
+      "community": 0,
+      "norm_label": "checkorganicviolations()"
+    },
+    {
+      "label": "organicGuardMiddleware()",
+      "file_type": "code",
+      "source_file": "server/middleware/organicGuard.js",
+      "source_location": "L76",
+      "id": "middleware_organicguard_organicguardmiddleware",
+      "community": 0,
+      "norm_label": "organicguardmiddleware()"
+    },
+    {
+      "label": "api.js",
+      "file_type": "code",
+      "source_file": "server/routes/api.js",
+      "source_location": "L1",
+      "id": "server_routes_api_js",
+      "community": 0,
+      "norm_label": "api.js"
+    },
+    {
+      "label": "geminiService.js",
+      "file_type": "code",
+      "source_file": "server/services/geminiService.js",
+      "source_location": "L1",
+      "id": "server_services_geminiservice_js",
+      "community": 0,
+      "norm_label": "geminiservice.js"
+    },
+    {
+      "label": "fileToGenerativePart()",
+      "file_type": "code",
+      "source_file": "server/services/geminiService.js",
+      "source_location": "L20",
+      "id": "services_geminiservice_filetogenerativepart",
+      "community": 0,
+      "norm_label": "filetogenerativepart()"
+    },
+    {
+      "label": "runGeminiPrompt()",
+      "file_type": "code",
+      "source_file": "server/services/geminiService.js",
+      "source_location": "L44",
+      "id": "services_geminiservice_rungeminiprompt",
+      "community": 0,
+      "norm_label": "rungeminiprompt()"
+    },
+    {
+      "label": "runGeminiVisionPrompt()",
+      "file_type": "code",
+      "source_file": "server/services/geminiService.js",
+      "source_location": "L110",
+      "id": "services_geminiservice_rungeminivisionprompt",
+      "community": 0,
+      "norm_label": "rungeminivisionprompt()"
+    },
+    {
+      "label": "generateMockResponse()",
+      "file_type": "code",
+      "source_file": "server/services/geminiService.js",
+      "source_location": "L165",
+      "id": "services_geminiservice_generatemockresponse",
+      "community": 0,
+      "norm_label": "generatemockresponse()"
+    },
+    {
+      "label": "App.jsx",
+      "file_type": "code",
+      "source_file": "src/App.jsx",
+      "source_location": "L1",
+      "id": "src_app_jsx",
+      "community": 6,
+      "norm_label": "app.jsx"
+    },
+    {
+      "label": "App()",
+      "file_type": "code",
+      "source_file": "src/App.jsx",
+      "source_location": "L17",
+      "id": "src_app_app",
+      "community": 6,
+      "norm_label": "app()"
+    },
+    {
+      "label": "main.jsx",
+      "file_type": "code",
+      "source_file": "src/main.jsx",
+      "source_location": "L1",
+      "id": "src_main_jsx",
+      "community": 6,
+      "norm_label": "main.jsx"
+    },
+    {
+      "label": "AICard.jsx",
+      "file_type": "code",
+      "source_file": "src/components/common/AICard.jsx",
+      "source_location": "L1",
+      "id": "src_components_common_aicard_jsx",
+      "community": 1,
+      "norm_label": "aicard.jsx"
+    },
+    {
+      "label": "AICard()",
+      "file_type": "code",
+      "source_file": "src/components/common/AICard.jsx",
+      "source_location": "L4",
+      "id": "common_aicard_aicard",
+      "community": 1,
+      "norm_label": "aicard()"
+    },
+    {
+      "label": "Layout.jsx",
+      "file_type": "code",
+      "source_file": "src/components/common/Layout.jsx",
+      "source_location": "L1",
+      "id": "src_components_common_layout_jsx",
+      "community": 5,
+      "norm_label": "layout.jsx"
+    },
+    {
+      "label": "Layout()",
+      "file_type": "code",
+      "source_file": "src/components/common/Layout.jsx",
+      "source_location": "L39",
+      "id": "common_layout_layout",
+      "community": 5,
+      "norm_label": "layout()"
+    },
+    {
+      "label": "StageHeader.jsx",
+      "file_type": "code",
+      "source_file": "src/components/common/StageHeader.jsx",
+      "source_location": "L1",
+      "id": "src_components_common_stageheader_jsx",
+      "community": 3,
+      "norm_label": "stageheader.jsx"
+    },
+    {
+      "label": "StageHeader()",
+      "file_type": "code",
+      "source_file": "src/components/common/StageHeader.jsx",
+      "source_location": "L3",
+      "id": "common_stageheader_stageheader",
+      "community": 3,
+      "norm_label": "stageheader()"
+    },
+    {
+      "label": "SyncButton.jsx",
+      "file_type": "code",
+      "source_file": "src/components/common/SyncButton.jsx",
+      "source_location": "L1",
+      "id": "src_components_common_syncbutton_jsx",
+      "community": 2,
+      "norm_label": "syncbutton.jsx"
+    },
+    {
+      "label": "SyncButton()",
+      "file_type": "code",
+      "source_file": "src/components/common/SyncButton.jsx",
+      "source_location": "L4",
+      "id": "common_syncbutton_syncbutton",
+      "community": 2,
+      "norm_label": "syncbutton()"
+    },
+    {
+      "label": "Stage10Page.jsx",
+      "file_type": "code",
+      "source_file": "src/pages/Stage10Page.jsx",
+      "source_location": "L1",
+      "id": "src_pages_stage10page_jsx",
+      "community": 1,
+      "norm_label": "stage10page.jsx"
+    },
+    {
+      "label": "Stage10Page()",
+      "file_type": "code",
+      "source_file": "src/pages/Stage10Page.jsx",
+      "source_location": "L20",
+      "id": "pages_stage10page_stage10page",
+      "community": 1,
+      "norm_label": "stage10page()"
+    },
+    {
+      "label": "Stage1Page.jsx",
+      "file_type": "code",
+      "source_file": "src/pages/Stage1Page.jsx",
+      "source_location": "L1",
+      "id": "src_pages_stage1page_jsx",
+      "community": 1,
+      "norm_label": "stage1page.jsx"
+    },
+    {
+      "label": "Stage1Page()",
+      "file_type": "code",
+      "source_file": "src/pages/Stage1Page.jsx",
+      "source_location": "L9",
+      "id": "pages_stage1page_stage1page",
+      "community": 1,
+      "norm_label": "stage1page()"
+    },
+    {
+      "label": "Stage2Page.jsx",
+      "file_type": "code",
+      "source_file": "src/pages/Stage2Page.jsx",
+      "source_location": "L1",
+      "id": "src_pages_stage2page_jsx",
+      "community": 4,
+      "norm_label": "stage2page.jsx"
+    },
+    {
+      "label": "Stage2Page()",
+      "file_type": "code",
+      "source_file": "src/pages/Stage2Page.jsx",
+      "source_location": "L18",
+      "id": "pages_stage2page_stage2page",
+      "community": 4,
+      "norm_label": "stage2page()"
+    },
+    {
+      "label": "Stage3Page.jsx",
+      "file_type": "code",
+      "source_file": "src/pages/Stage3Page.jsx",
+      "source_location": "L1",
+      "id": "src_pages_stage3page_jsx",
+      "community": 1,
+      "norm_label": "stage3page.jsx"
+    },
+    {
+      "label": "Stage3Page()",
+      "file_type": "code",
+      "source_file": "src/pages/Stage3Page.jsx",
+      "source_location": "L21",
+      "id": "pages_stage3page_stage3page",
+      "community": 1,
+      "norm_label": "stage3page()"
+    },
+    {
+      "label": "Stage4Page.jsx",
+      "file_type": "code",
+      "source_file": "src/pages/Stage4Page.jsx",
+      "source_location": "L1",
+      "id": "src_pages_stage4page_jsx",
+      "community": 8,
+      "norm_label": "stage4page.jsx"
+    },
+    {
+      "label": "Stage4Page()",
+      "file_type": "code",
+      "source_file": "src/pages/Stage4Page.jsx",
+      "source_location": "L19",
+      "id": "pages_stage4page_stage4page",
+      "community": 8,
+      "norm_label": "stage4page()"
+    },
+    {
+      "label": "Stage5Page.jsx",
+      "file_type": "code",
+      "source_file": "src/pages/Stage5Page.jsx",
+      "source_location": "L1",
+      "id": "src_pages_stage5page_jsx",
+      "community": 9,
+      "norm_label": "stage5page.jsx"
+    },
+    {
+      "label": "Stage5Page()",
+      "file_type": "code",
+      "source_file": "src/pages/Stage5Page.jsx",
+      "source_location": "L17",
+      "id": "pages_stage5page_stage5page",
+      "community": 9,
+      "norm_label": "stage5page()"
+    },
+    {
+      "label": "Stage6Page.jsx",
+      "file_type": "code",
+      "source_file": "src/pages/Stage6Page.jsx",
+      "source_location": "L1",
+      "id": "src_pages_stage6page_jsx",
+      "community": 7,
+      "norm_label": "stage6page.jsx"
+    },
+    {
+      "label": "Stage6Page()",
+      "file_type": "code",
+      "source_file": "src/pages/Stage6Page.jsx",
+      "source_location": "L26",
+      "id": "pages_stage6page_stage6page",
+      "community": 7,
+      "norm_label": "stage6page()"
+    },
+    {
+      "label": "Stage7Page.jsx",
+      "file_type": "code",
+      "source_file": "src/pages/Stage7Page.jsx",
+      "source_location": "L1",
+      "id": "src_pages_stage7page_jsx",
+      "community": 5,
+      "norm_label": "stage7page.jsx"
+    },
+    {
+      "label": "Stage7Page()",
+      "file_type": "code",
+      "source_file": "src/pages/Stage7Page.jsx",
+      "source_location": "L17",
+      "id": "pages_stage7page_stage7page",
+      "community": 5,
+      "norm_label": "stage7page()"
+    },
+    {
+      "label": "Stage8Page.jsx",
+      "file_type": "code",
+      "source_file": "src/pages/Stage8Page.jsx",
+      "source_location": "L1",
+      "id": "src_pages_stage8page_jsx",
+      "community": 3,
+      "norm_label": "stage8page.jsx"
+    },
+    {
+      "label": "Stage8Page()",
+      "file_type": "code",
+      "source_file": "src/pages/Stage8Page.jsx",
+      "source_location": "L19",
+      "id": "pages_stage8page_stage8page",
+      "community": 3,
+      "norm_label": "stage8page()"
+    },
+    {
+      "label": "Stage9Page.jsx",
+      "file_type": "code",
+      "source_file": "src/pages/Stage9Page.jsx",
+      "source_location": "L1",
+      "id": "src_pages_stage9page_jsx",
+      "community": 2,
+      "norm_label": "stage9page.jsx"
+    },
+    {
+      "label": "Stage9Page()",
+      "file_type": "code",
+      "source_file": "src/pages/Stage9Page.jsx",
+      "source_location": "L21",
+      "id": "pages_stage9page_stage9page",
+      "community": 2,
+      "norm_label": "stage9page()"
+    },
+    {
+      "label": "stageStore.js",
+      "file_type": "code",
+      "source_file": "src/store/stageStore.js",
+      "source_location": "L1",
+      "id": "src_store_stagestore_js",
+      "community": 4,
+      "norm_label": "stagestore.js"
+    },
+    {
+      "label": "generateSessionId()",
+      "file_type": "code",
+      "source_file": "src/store/stageStore.js",
+      "source_location": "L4",
+      "id": "store_stagestore_generatesessionid",
+      "community": 4,
+      "norm_label": "generatesessionid()"
+    }
+  ],
+  "links": [
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "server/index.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "server_index_js",
+      "target": "server_routes_api_js",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/middleware/organicGuard.js",
+      "source_location": "L50",
+      "weight": 1.0,
+      "source": "server_middleware_organicguard_js",
+      "target": "middleware_organicguard_checkorganicviolations",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/middleware/organicGuard.js",
+      "source_location": "L76",
+      "weight": 1.0,
+      "source": "server_middleware_organicguard_js",
+      "target": "middleware_organicguard_organicguardmiddleware",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "server/services/geminiService.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "server_services_geminiservice_js",
+      "target": "server_middleware_organicguard_js",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "server/middleware/organicGuard.js",
+      "source_location": "L82",
+      "weight": 1.0,
+      "source": "middleware_organicguard_organicguardmiddleware",
+      "target": "middleware_organicguard_checkorganicviolations",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "server/services/geminiService.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "server_services_geminiservice_js",
+      "target": "middleware_organicguard_checkorganicviolations",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "server/services/geminiService.js",
+      "source_location": "L83",
+      "weight": 1.0,
+      "source": "services_geminiservice_rungeminiprompt",
+      "target": "middleware_organicguard_checkorganicviolations"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "server/services/geminiService.js",
+      "source_location": "L148",
+      "weight": 1.0,
+      "source": "services_geminiservice_rungeminivisionprompt",
+      "target": "middleware_organicguard_checkorganicviolations"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "server/routes/api.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "server_routes_api_js",
+      "target": "server_services_geminiservice_js",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "server/routes/api.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "server_routes_api_js",
+      "target": "services_geminiservice_rungeminiprompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "server/routes/api.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "server_routes_api_js",
+      "target": "services_geminiservice_rungeminivisionprompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/services/geminiService.js",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "server_services_geminiservice_js",
+      "target": "services_geminiservice_filetogenerativepart",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/services/geminiService.js",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "server_services_geminiservice_js",
+      "target": "services_geminiservice_rungeminiprompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/services/geminiService.js",
+      "source_location": "L110",
+      "weight": 1.0,
+      "source": "server_services_geminiservice_js",
+      "target": "services_geminiservice_rungeminivisionprompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "server/services/geminiService.js",
+      "source_location": "L165",
+      "weight": 1.0,
+      "source": "server_services_geminiservice_js",
+      "target": "services_geminiservice_generatemockresponse",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "server/services/geminiService.js",
+      "source_location": "L122",
+      "weight": 1.0,
+      "source": "services_geminiservice_rungeminivisionprompt",
+      "target": "services_geminiservice_filetogenerativepart",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "server/services/geminiService.js",
+      "source_location": "L46",
+      "weight": 1.0,
+      "source": "services_geminiservice_rungeminiprompt",
+      "target": "services_geminiservice_generatemockresponse",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "server/services/geminiService.js",
+      "source_location": "L112",
+      "weight": 1.0,
+      "source": "services_geminiservice_rungeminivisionprompt",
+      "target": "services_geminiservice_generatemockresponse",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.jsx",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "src_app_jsx",
+      "target": "src_store_stagestore_js",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_app_jsx",
+      "target": "src_components_common_layout_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.jsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "src_app_jsx",
+      "target": "src_pages_stage1page_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.jsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "src_app_jsx",
+      "target": "src_pages_stage2page_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.jsx",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "src_app_jsx",
+      "target": "src_pages_stage3page_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.jsx",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "src_app_jsx",
+      "target": "src_pages_stage4page_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.jsx",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "src_app_jsx",
+      "target": "src_pages_stage5page_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.jsx",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "src_app_jsx",
+      "target": "src_pages_stage6page_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.jsx",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "src_app_jsx",
+      "target": "src_pages_stage7page_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.jsx",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "src_app_jsx",
+      "target": "src_pages_stage8page_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.jsx",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "src_app_jsx",
+      "target": "src_pages_stage9page_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.jsx",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "src_app_jsx",
+      "target": "src_pages_stage10page_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.jsx",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "src_app_jsx",
+      "target": "src_app_app",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_main_jsx",
+      "target": "src_app_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/common/AICard.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_components_common_aicard_jsx",
+      "target": "common_aicard_aicard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage10Page.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_pages_stage10page_jsx",
+      "target": "src_components_common_aicard_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage1Page.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_pages_stage1page_jsx",
+      "target": "src_components_common_aicard_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage3Page.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_pages_stage3page_jsx",
+      "target": "src_components_common_aicard_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage4Page.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_pages_stage4page_jsx",
+      "target": "src_components_common_aicard_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage5Page.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_pages_stage5page_jsx",
+      "target": "src_components_common_aicard_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage6Page.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_pages_stage6page_jsx",
+      "target": "src_components_common_aicard_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage7Page.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_pages_stage7page_jsx",
+      "target": "src_components_common_aicard_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage8Page.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_pages_stage8page_jsx",
+      "target": "src_components_common_aicard_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage9Page.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_pages_stage9page_jsx",
+      "target": "src_components_common_aicard_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/common/Layout.jsx",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "src_components_common_layout_jsx",
+      "target": "src_store_stagestore_js",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/common/Layout.jsx",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "src_components_common_layout_jsx",
+      "target": "src_pages_stage7page_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/common/Layout.jsx",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "src_components_common_layout_jsx",
+      "target": "common_layout_layout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/common/StageHeader.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_components_common_stageheader_jsx",
+      "target": "common_stageheader_stageheader",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage10Page.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_pages_stage10page_jsx",
+      "target": "src_components_common_stageheader_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage1Page.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_pages_stage1page_jsx",
+      "target": "src_components_common_stageheader_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage2Page.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_pages_stage2page_jsx",
+      "target": "src_components_common_stageheader_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage3Page.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_pages_stage3page_jsx",
+      "target": "src_components_common_stageheader_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage4Page.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_pages_stage4page_jsx",
+      "target": "src_components_common_stageheader_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage5Page.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_pages_stage5page_jsx",
+      "target": "src_components_common_stageheader_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage6Page.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_pages_stage6page_jsx",
+      "target": "src_components_common_stageheader_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage7Page.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_pages_stage7page_jsx",
+      "target": "src_components_common_stageheader_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage8Page.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_pages_stage8page_jsx",
+      "target": "src_components_common_stageheader_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage9Page.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "src_pages_stage9page_jsx",
+      "target": "src_components_common_stageheader_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/common/SyncButton.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_components_common_syncbutton_jsx",
+      "target": "common_syncbutton_syncbutton",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage1Page.jsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_pages_stage1page_jsx",
+      "target": "src_components_common_syncbutton_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage2Page.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_pages_stage2page_jsx",
+      "target": "src_components_common_syncbutton_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage3Page.jsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_pages_stage3page_jsx",
+      "target": "src_components_common_syncbutton_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage4Page.jsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_pages_stage4page_jsx",
+      "target": "src_components_common_syncbutton_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage5Page.jsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_pages_stage5page_jsx",
+      "target": "src_components_common_syncbutton_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage6Page.jsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_pages_stage6page_jsx",
+      "target": "src_components_common_syncbutton_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage8Page.jsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_pages_stage8page_jsx",
+      "target": "src_components_common_syncbutton_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage9Page.jsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "src_pages_stage9page_jsx",
+      "target": "src_components_common_syncbutton_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage10Page.jsx",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "src_pages_stage10page_jsx",
+      "target": "src_store_stagestore_js",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage10Page.jsx",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "src_pages_stage10page_jsx",
+      "target": "pages_stage10page_stage10page",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage1Page.jsx",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "src_pages_stage1page_jsx",
+      "target": "src_store_stagestore_js",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage1Page.jsx",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "src_pages_stage1page_jsx",
+      "target": "pages_stage1page_stage1page",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage2Page.jsx",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "src_pages_stage2page_jsx",
+      "target": "src_store_stagestore_js",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage2Page.jsx",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "src_pages_stage2page_jsx",
+      "target": "pages_stage2page_stage2page",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage3Page.jsx",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "src_pages_stage3page_jsx",
+      "target": "src_store_stagestore_js",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage3Page.jsx",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "src_pages_stage3page_jsx",
+      "target": "pages_stage3page_stage3page",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage4Page.jsx",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "src_pages_stage4page_jsx",
+      "target": "src_store_stagestore_js",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage4Page.jsx",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "src_pages_stage4page_jsx",
+      "target": "pages_stage4page_stage4page",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage5Page.jsx",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "src_pages_stage5page_jsx",
+      "target": "src_store_stagestore_js",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage5Page.jsx",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "src_pages_stage5page_jsx",
+      "target": "pages_stage5page_stage5page",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage6Page.jsx",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "src_pages_stage6page_jsx",
+      "target": "src_store_stagestore_js",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage6Page.jsx",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "src_pages_stage6page_jsx",
+      "target": "pages_stage6page_stage6page",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage7Page.jsx",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "src_pages_stage7page_jsx",
+      "target": "src_store_stagestore_js",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage7Page.jsx",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "src_pages_stage7page_jsx",
+      "target": "pages_stage7page_stage7page",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage8Page.jsx",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "src_pages_stage8page_jsx",
+      "target": "src_store_stagestore_js",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage8Page.jsx",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "src_pages_stage8page_jsx",
+      "target": "pages_stage8page_stage8page",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage9Page.jsx",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "src_pages_stage9page_jsx",
+      "target": "src_store_stagestore_js",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Stage9Page.jsx",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "src_pages_stage9page_jsx",
+      "target": "pages_stage9page_stage9page",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/store/stageStore.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "src_store_stagestore_js",
+      "target": "store_stagestore_generatesessionid",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}
